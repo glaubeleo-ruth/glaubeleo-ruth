@@ -1,4 +1,4 @@
-## Jungwoo Suh
+## Leo Suh
 
 Double major in Computer Science and Industrial Engineering.
 Interested in the intersection of machine learning and mathematical optimization for data-driven decision systems.
