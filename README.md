@@ -1,15 +1,14 @@
-## Leo Suh
+B.Eng. Industrial Engineering · AI-Convergence, Soongsil University
+Undergraduate Researcher @ IMSI Lab, Seoul National University
 
-Double major in Computer Science and Industrial Engineering.
-Interested in the intersection of machine learning and mathematical optimization for data-driven decision systems.
+Broadly interested in Medical AI and ML-driven optimization,
+with focus on applying deep learning to clinical decision support
+and healthcare operations.
 
-### Research Interests
-- Learning-augmented optimization
-- Stochastic and robust optimization
-- Data-driven decision systems
-- Large-scale algorithmic modeling
+Research Interests:
+- Medical Image Analysis (segmentation, classification)
+- ML-Enhanced Decision Systems for Healthcare Operations
+- Optimization under Uncertainty
 
-### Technical Focus
-Python · PyTorch · Gurobi · MILP · Simulation Modeling
-
-Currently building research-oriented optimization frameworks with real-world applications.
+Technical Stack:
+Python · PyTorch · U-Net · Gurobi · MILP · Simulation Modeling
