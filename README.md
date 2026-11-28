@@ -1,6 +1,6 @@
 ### Jungwoo Suh — Optimization & Machine Learning
 
-Industrial Engineering × AI Convergence @ Soongsil University (graduating Aug 2027)  
+Industrial Engineering × AI Convergence @ Soongsil University (graduating Feb 2028)  
 Undergraduate Researcher @ Seoul National University
 
 I work on decisions under hard constraints, from the data pipeline and prediction model to the
